@@ -55,3 +55,9 @@
 2024-04-06 09:17:14,956:INFO: * Restarting with stat
 2024-04-06 09:17:16,007:WARNING: * Debugger is active!
 2024-04-06 09:17:16,011:INFO: * Debugger PIN: 127-880-547
+2024-04-06 09:18:29,629:INFO:User values: {'bedrooms': [3], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 09:18:31,421:INFO:Prediction: [155849.90294016]
+2024-04-06 09:18:31,422:INFO:127.0.0.1 - - [06/Apr/2024 09:18:31] "POST / HTTP/1.1" 200 -
+2024-04-06 09:18:38,283:INFO:User values: {'bedrooms': [4], 'bathrooms': [1], 'sqft_living': [1180], 'sqft_lot': [5650], 'floors': [1], 'waterfront': [0], 'condition': [1]}
+2024-04-06 09:18:38,287:INFO:Prediction: [86968.64456904]
+2024-04-06 09:18:38,289:INFO:127.0.0.1 - - [06/Apr/2024 09:18:38] "POST / HTTP/1.1" 200 -
