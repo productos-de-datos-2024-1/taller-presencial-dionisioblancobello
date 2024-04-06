@@ -1,0 +1,46 @@
+2024-04-06 09:13:50,417:INFO:Starting the application
+2024-04-06 09:13:50,445:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2024-04-06 09:13:50,445:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:13:50,446:INFO: * Restarting with stat
+2024-04-06 09:13:51,141:INFO:Starting the application
+2024-04-06 09:13:51,151:WARNING: * Debugger is active!
+2024-04-06 09:13:51,155:INFO: * Debugger PIN: 259-075-609
+2024-04-06 09:14:06,908:INFO:127.0.0.1 - - [06/Apr/2024 09:14:06] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-04-06 09:14:07,154:INFO:127.0.0.1 - - [06/Apr/2024 09:14:07] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-04-06 09:14:07,179:INFO:127.0.0.1 - - [06/Apr/2024 09:14:07] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-04-06 09:14:07,230:INFO:127.0.0.1 - - [06/Apr/2024 09:14:07] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-04-06 09:14:07,247:INFO:127.0.0.1 - - [06/Apr/2024 09:14:07] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-06 09:15:04,115:INFO: * Detected change in 'c:\\Users\\dionisio.blanco\\Documents\\6. UNAL\\Productos de Datos\\taller-presencial-dionisioblancobello\\src\\6a_api_client\\app.py', reloading
+2024-04-06 09:15:04,191:INFO: * Restarting with stat
+2024-04-06 09:15:04,875:INFO:Starting the application
+2024-04-06 09:15:04,886:WARNING: * Debugger is active!
+2024-04-06 09:15:04,889:INFO: * Debugger PIN: 259-075-609
+2024-04-06 09:15:06,830:INFO:Starting the application
+2024-04-06 09:15:06,895:INFO:Starting the application
+2024-04-06 09:15:10,078:INFO:Starting the application
+2024-04-06 09:15:10,102:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2024-04-06 09:15:10,103:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:15:10,106:INFO: * Restarting with stat
+2024-04-06 09:15:10,746:INFO:Starting the application
+2024-04-06 09:15:10,757:WARNING: * Debugger is active!
+2024-04-06 09:15:10,761:INFO: * Debugger PIN: 259-075-609
+2024-04-06 09:15:18,591:INFO:127.0.0.1 - - [06/Apr/2024 09:15:18] "GET / HTTP/1.1" 200 -
+2024-04-06 09:15:18,676:INFO:127.0.0.1 - - [06/Apr/2024 09:15:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-04-06 09:15:20,777:INFO:User values: {'bedrooms': 3.0, 'bathrooms': 1.0, 'sqft_living': 1180.0, 'sqft_lot': 5650.0, 'floors': 1.0, 'waterfront': 0, 'condition': 1}
+2024-04-06 09:15:22,854:INFO:127.0.0.1 - - [06/Apr/2024 09:15:22] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-04-06 09:15:23,097:INFO:127.0.0.1 - - [06/Apr/2024 09:15:23] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-04-06 09:15:23,105:INFO:127.0.0.1 - - [06/Apr/2024 09:15:23] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-04-06 09:15:23,143:INFO:127.0.0.1 - - [06/Apr/2024 09:15:23] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-06 09:15:23,162:INFO:127.0.0.1 - - [06/Apr/2024 09:15:23] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-04-06 09:15:34,370:INFO:Starting the application
+2024-04-06 09:15:34,435:INFO:Starting the application
+2024-04-06 09:18:09,082:INFO:Starting the application
+2024-04-06 09:18:09,103:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5002
+2024-04-06 09:18:09,103:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:18:09,105:INFO: * Restarting with stat
+2024-04-06 09:18:09,690:INFO:Starting the application
+2024-04-06 09:18:09,699:WARNING: * Debugger is active!
+2024-04-06 09:18:09,702:INFO: * Debugger PIN: 127-880-547
